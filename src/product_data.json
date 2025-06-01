@@ -1,0 +1,5 @@
+[
+  { "aruco_id": 1, "box_type": "A", "Product": "Estradiol" },
+  { "aruco_id": 2, "box_type": "B", "Product": "Spironolactone" },
+  { "aruco_id": 3, "box_type": "C", "Product": "Flutamide" }
+]
